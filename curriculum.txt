@@ -3,3 +3,4 @@ Kinder: Rodolfo T. Loaiza
 Kinder: Jardin de Niños
 Primaria: Leocadio Leal
 Secundaria: Tecnica #93
+Preparatoria: Cetis #108
